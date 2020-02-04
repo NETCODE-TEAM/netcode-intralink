@@ -33,6 +33,7 @@ A Community local network React Web App
 - Back End Lead - [Gaetan](https://github.com/Gaetan-M)
 - Database Lead - [Cecile](https://github.com/cecilekkac)
 - Designer/ Styling Lead - [Delphine](https://github.com/Delphi-943)
+- Network Lead- [Meli](https://github.com/LoicMeli)
 
 ---
 
