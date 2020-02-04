@@ -17,7 +17,7 @@ A Community local network React Web App
 
 - [React](https://reactjs.org/) - JavaScript UI Library
 - [React-Router](https://reacttraining.com/) - Routing
-- [Styled Components](https://sass-lang.com/) - Styling
+- [Sass Styling](https://sass-lang.com/) - Styling
 - [Jest](https://jestjs.io/) - JavaScript Testing Framework
 
 ### Back End
