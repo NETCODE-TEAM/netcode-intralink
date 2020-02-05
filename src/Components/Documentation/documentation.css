@@ -1,0 +1,27 @@
+#doc-wrapper{
+	width:100vw;
+	height: 89.2vh;
+	display: block;
+}
+#doc-container{
+/*   background: transparent url('./assets/doc-image.png') 0% 0% no-repeat padding-box;
+	width:50%;
+	height: 50%;
+	box-sizing: border-box;
+	top: 296px;
+	left: 452px;
+	max-width: 1016px;
+	max-height: 676px;
+*/
+}
+#doc-input-item{
+	margin: 0px 25% 10%;
+	width:45%;
+	height: 25px;
+	border-top-width: 0px;
+	border-radius: 5px;
+}
+#doc-text-container{
+	width: 300px;
+    margin: 0px 30% ;
+}

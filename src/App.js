@@ -1,10 +1,13 @@
 import React from 'react';
+import Document from './Components/Documentation/Documentation'
+import Nav from './Components/Nav/Nav'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      Intralink Comming Soon
+      <Nav />
+      <Document />
     </div>
   );
 }
