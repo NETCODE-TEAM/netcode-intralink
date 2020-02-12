@@ -11,4 +11,5 @@ Please follow this template:
 
 -> Angelo Diepe | https://github.com/angelo-diepe/ | https://angelodiepe.netlify.com/ | @Angelo#6931
 
+-> Prince Cabrel | https://github.com/princecabrel/ | @Prince Cabrel#4258
 
