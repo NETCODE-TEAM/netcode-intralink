@@ -1,0 +1,34 @@
+.login-container{
+  width:100%;
+  height: 100%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+
+  .form-container{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 35%;
+    height: 100%;
+    align-items: center;
+
+    form{
+      width: 100%;
+      max-width: 480px;
+      height: 551px;
+      background-color: red;
+      display: flex;
+      flex-direction: column; 
+    }
+  }
+  #logo-container{
+    background-position: center;
+    background-size: cover;
+    width:1200px;
+    border:none;
+    border-radius:50%;
+  }
+}

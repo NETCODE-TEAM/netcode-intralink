@@ -1,10 +1,23 @@
 import React from 'react';
-import './App.css';
+import { Route, Switch } from 'react-router-dom';
+
+import Intro from './Components/Intro/Intro.js';
+import Login from './Components/Login/Login.js';
+
+import appBg from './Assets/app-bg.png'
+import './App.scss';
 
 function App() {
   return (
-    <div className="App">
-      Intralink Comming Soon
+    <div 
+    className="App" 
+    style={{backgroundImage:`url(${appBg})`}}>
+      <Switch>
+        <Route exact path="/" component={Intro}/>
+        <Route exact path="/login" component={Login}/>
+        <Route exact path="/register" render={() => <h1>register page</h1>}/>
+        <Route exact path="/home" render={() => <h1>home page</h1>}/>
+      </Switch>
     </div>
   );
 }
